@@ -73,7 +73,7 @@ const Movies = () => {
       </div>
       <div className="search-div3">
         <div className="rectangle-div443" />
-        <img className="vector-icon65" alt="" src="../vector26.svg" />
+        <img className="vector-icon65" alt="" src="../vector34.svg" />
       </div>
       <img className="group-icon14" alt="" src="../group9.svg" />
       <img className="group-icon15" alt="" src="../group10.svg" />
@@ -92,7 +92,7 @@ const Movies = () => {
         <div className="rectangle-div447" />
         <img className="group-icon18" alt="" src="../group7.svg" />
         <button className="group-button10" onClick={onGroupButtonClick}>
-          <img className="vector-icon66" alt="" src="../vector27.svg" />
+          <img className="vector-icon66" alt="" src="../vector51.svg" />
           <img className="vector-icon67" alt="" src="../vector52.svg" />
           <img className="vector-icon68" alt="" src="../vector53.svg" />
           <img className="vector-icon69" alt="" src="../vector54.svg" />

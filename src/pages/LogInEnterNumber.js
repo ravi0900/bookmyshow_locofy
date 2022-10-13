@@ -1,4 +1,4 @@
-import { useCallback } from "react";
+import { useCallback, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "./LogInEnterNumber.css";
 
@@ -9,6 +9,36 @@ const LogInEnterNumber = () => {
     navigate("/loginverify");
   }, [navigate]);
 
+  useEffect(() => {
+    const scrollAnimElements = document.querySelectorAll(
+      "[data-animate-on-scroll]"
+    );
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting || entry.intersectionRatio > 0) {
+            const targetElement = entry.target;
+            targetElement.classList.add("animate");
+            observer.unobserve(targetElement);
+          }
+        }
+      },
+      {
+        threshold: 0.15,
+      }
+    );
+
+    for (let i = 0; i < scrollAnimElements.length; i++) {
+      observer.observe(scrollAnimElements[i]);
+    }
+
+    return () => {
+      for (let i = 0; i < scrollAnimElements.length; i++) {
+        observer.unobserve(scrollAnimElements[i]);
+      }
+    };
+  }, []);
+
   return (
     <div className="log-in-enter-number-div">
       <img
@@ -16,8 +46,13 @@ const LogInEnterNumber = () => {
         alt=""
         src="../bookmyshowlogo@3x.png"
       />
-      <input className="rectangle-input" type="text" minLength={10} />
-      <input className="rectangle-input1" type="text" />
+      <input
+        className="rectangle-input"
+        type="text"
+        minLength={10}
+        data-animate-on-scroll
+      />
+      <input className="rectangle-input1" type="text" data-animate-on-scroll />
       <div className="please-enter-your-mobile-numbe">
         <p className="please-enter-your">{`Please enter your mobile number or `}</p>
         <p className="email-address-for">email address for verification</p>

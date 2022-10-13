@@ -1,3 +1,11 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
 .hurray-div,
 .your-tickets-are-booked {
   position: absolute;
@@ -12,10 +20,62 @@
 }
 .vector-icon {
   position: absolute;
+  top: calc(50% - 54.99px);
+  left: calc(50% - 54.15px);
+  width: 109.12px;
+  height: 109.12px;
+}
+.ellipse-icon,
+.ellipse-icon1 {
+  position: absolute;
+  top: calc(50% - 49.1px);
+  left: calc(50% - 88.01px);
+  width: 14.55px;
+  height: 14.55px;
+}
+.ellipse-icon1 {
+  top: calc(50% - -27.82px);
+  left: calc(50% - -89.46px);
+}
+.ellipse-icon2,
+.ellipse-icon3 {
+  position: absolute;
+  top: calc(50% - -65.91px);
+  left: calc(50% - -42.99px);
+  width: 9.09px;
+  height: 9.09px;
+}
+.ellipse-icon3 {
+  top: calc(50% - 75px);
+  left: calc(50% - 30.89px);
+}
+.ellipse-icon4,
+.ellipse-icon5,
+.vector-button {
+  position: absolute;
+  top: calc(50% - 68.91px);
+  left: calc(50% - -63.56px);
+  width: 20.01px;
+  height: 20.01px;
+}
+.ellipse-icon5,
+.vector-button {
+  top: calc(50% - -27.82px);
+  left: calc(50% - 104.01px);
+}
+.vector-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
   top: calc(50% - 219px);
   left: calc(50% - 104px);
   width: 208.01px;
   height: 150px;
+  opacity: 1;
+}
+.vector-button.animate {
+  animation: 1s ease 0s 1 normal forwards scale-up;
 }
 .group-button,
 .rectangle-div,

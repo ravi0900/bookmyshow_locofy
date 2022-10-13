@@ -1,3 +1,32 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+@keyframes jello-horizontal {
+  0%,
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+  30% {
+    transform: scale3d(1.25, 0.75, 1);
+  }
+  40% {
+    transform: scale3d(0.75, 1.25, 1);
+  }
+  50% {
+    transform: scale3d(1.15, 0.85, 1);
+  }
+  65% {
+    transform: scale3d(0.95, 1.05, 1);
+  }
+  75% {
+    transform: scale3d(1.05, 0.95, 1);
+  }
+}
 .book-my-show-logo-icon1 {
   position: absolute;
   top: calc(50% - 220px);
@@ -14,6 +43,10 @@
   left: calc(50% - 160px);
   width: 320px;
   height: 72px;
+  opacity: 1;
+}
+.group-input.animate {
+  animation: 1s ease 0s 1 normal forwards scale-up;
 }
 .please-enter-verification-code {
   position: absolute;
@@ -60,6 +93,10 @@
   left: calc(50% - 120px);
   width: 240px;
   height: 48px;
+}
+.verify-button:hover {
+  animation: 1s ease 0s infinite normal none jello-horizontal;
+  opacity: 1;
 }
 .log-in-verify-div {
   position: relative;

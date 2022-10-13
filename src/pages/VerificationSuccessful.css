@@ -1,3 +1,26 @@
+@keyframes pulsate {
+  0% {
+    transform: scale(1);
+    transform-origin: center center;
+    animation-timing-function: ease-out;
+  }
+  10% {
+    transform: scale(0.91);
+    animation-timing-function: ease-in;
+  }
+  17% {
+    transform: scale(0.98);
+    animation-timing-function: ease-out;
+  }
+  33% {
+    transform: scale(0.87);
+    animation-timing-function: ease-in;
+  }
+  45% {
+    transform: scale(1);
+    animation-timing-function: ease-out;
+  }
+}
 .verification-successful-div1 {
   position: absolute;
   top: calc(50% - -80px);
@@ -12,45 +35,45 @@
   width: 120px;
   height: 120px;
 }
-.ellipse-icon10,
-.ellipse-icon11 {
+.ellipse-icon16,
+.ellipse-icon17 {
   position: absolute;
   top: calc(50% - 54px);
   left: calc(50% - 96.78px);
   width: 16px;
   height: 16px;
 }
-.ellipse-icon11 {
+.ellipse-icon17 {
   top: calc(50% - -30.6px);
   left: calc(50% - -98.37px);
 }
-.ellipse-icon12,
-.ellipse-icon13 {
+.ellipse-icon18,
+.ellipse-icon19 {
   position: absolute;
   top: calc(50% - -72.47px);
   left: calc(50% - -47.28px);
   width: 10px;
   height: 10px;
 }
-.ellipse-icon13 {
+.ellipse-icon19 {
   top: calc(50% - 82.47px);
   left: calc(50% - 33.96px);
 }
-.ellipse-icon14,
-.ellipse-icon15,
-.vector-button {
+.ellipse-icon20,
+.ellipse-icon21,
+.vector-button1 {
   position: absolute;
   top: calc(50% - 75.77px);
   left: calc(50% - -69.89px);
   width: 22px;
   height: 22px;
 }
-.ellipse-icon15,
-.vector-button {
+.ellipse-icon21,
+.vector-button1 {
   top: calc(50% - -30.6px);
   left: calc(50% - 114.37px);
 }
-.vector-button {
+.vector-button1 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -59,6 +82,10 @@
   left: calc(50% - 114px);
   width: 228.74px;
   height: 164.95px;
+  opacity: 1;
+}
+.vector-button1.animate {
+  animation: 1s ease 0s 1 normal forwards pulsate;
 }
 .verification-successful-div {
   position: relative;

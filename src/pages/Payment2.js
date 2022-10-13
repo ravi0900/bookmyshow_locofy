@@ -34,10 +34,10 @@ const Payment2 = () => {
       <div className="pay-via-google-pay">Pay Via Google Pay</div>
       <div className="pay-via-debitcredit-card">Pay Via Debit/Credit Card</div>
       <div className="other-payment-method">Other Payment Method</div>
-      <img className="ellipse-icon" alt="" src="../ellipse-16.svg" />
-      <img className="ellipse-icon1" alt="" src="../ellipse-16.svg" />
-      <img className="ellipse-icon2" alt="" src="../ellipse-18.svg" />
-      <img className="ellipse-icon3" alt="" src="../ellipse-16.svg" />
+      <img className="ellipse-icon6" alt="" src="../ellipse-16.svg" />
+      <img className="ellipse-icon7" alt="" src="../ellipse-16.svg" />
+      <img className="ellipse-icon8" alt="" src="../ellipse-18.svg" />
+      <img className="ellipse-icon9" alt="" src="../ellipse-16.svg" />
       <img className="xmlid-1-icon" alt="" src="../xmlid-1.svg" />
       <img className="group-icon5" alt="" src="../group4.svg" />
       <img className="xmlid-69-icon" alt="" src="../xmlid-69.svg" />
@@ -47,7 +47,7 @@ const Payment2 = () => {
       <button className="pay-now-button" onClick={onPayNowButtonClick}>
         Pay Now
       </button>
-      <img className="ellipse-icon4" alt="" src="../ellipse-20.svg" />
+      <img className="ellipse-icon10" alt="" src="../ellipse-20.svg" />
     </div>
   );
 };

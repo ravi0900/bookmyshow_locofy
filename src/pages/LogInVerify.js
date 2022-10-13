@@ -1,4 +1,4 @@
-import { useCallback } from "react";
+import { useCallback, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "./LogInVerify.css";
 
@@ -9,6 +9,36 @@ const LogInVerify = () => {
     navigate("/verification-successful");
   }, [navigate]);
 
+  useEffect(() => {
+    const scrollAnimElements = document.querySelectorAll(
+      "[data-animate-on-scroll]"
+    );
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting || entry.intersectionRatio > 0) {
+            const targetElement = entry.target;
+            targetElement.classList.add("animate");
+            observer.unobserve(targetElement);
+          }
+        }
+      },
+      {
+        threshold: 0.15,
+      }
+    );
+
+    for (let i = 0; i < scrollAnimElements.length; i++) {
+      observer.observe(scrollAnimElements[i]);
+    }
+
+    return () => {
+      for (let i = 0; i < scrollAnimElements.length; i++) {
+        observer.unobserve(scrollAnimElements[i]);
+      }
+    };
+  }, []);
+
   return (
     <div className="log-in-verify-div">
       <img
@@ -16,7 +46,12 @@ const LogInVerify = () => {
         alt=""
         src="../bookmyshowlogo@3x.png"
       />
-      <input className="group-input" type="text" autoFocus />
+      <input
+        className="group-input"
+        type="text"
+        autoFocus
+        data-animate-on-scroll
+      />
       <div className="please-enter-verification-code">
         Please enter verification code
       </div>

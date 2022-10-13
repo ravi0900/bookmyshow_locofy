@@ -93,7 +93,7 @@ const Theatres = () => {
         <img
           className="vector-icon40"
           alt=""
-          src="../vector26.svg"
+          src="../vector34.svg"
           data-scroll-to="vectorIcon"
         />
       </div>
@@ -101,7 +101,7 @@ const Theatres = () => {
         <div className="rectangle-div416" />
         <div className="group-div48">
           <div className="rectangle-div413" />
-          <img className="vector-icon41" alt="" src="../vector21.svg" />
+          <img className="vector-icon41" alt="" src="../vector35.svg" />
         </div>
         <div className="pvr-forum-mall-kormangala3">
           PVR, Forum Mall, Kormangala
@@ -141,7 +141,7 @@ const Theatres = () => {
         <div className="rectangle-div416" />
         <div className="group-div48">
           <div className="rectangle-div413" />
-          <img className="vector-icon41" alt="" src="../vector21.svg" />
+          <img className="vector-icon41" alt="" src="../vector35.svg" />
         </div>
         <div className="babu-theatre-div1">Babu Theatre</div>
         <div className="group-div49">
@@ -179,7 +179,7 @@ const Theatres = () => {
         <div className="rectangle-div416" />
         <div className="group-div48">
           <div className="rectangle-div413" />
-          <img className="vector-icon41" alt="" src="../vector21.svg" />
+          <img className="vector-icon41" alt="" src="../vector35.svg" />
         </div>
         <div className="lakshmi-theatre-div1">Lakshmi Theatre</div>
         <div className="group-div49">
@@ -217,7 +217,7 @@ const Theatres = () => {
         <div className="rectangle-div416" />
         <div className="group-div48">
           <div className="rectangle-div413" />
-          <img className="vector-icon41" alt="" src="../vector21.svg" />
+          <img className="vector-icon41" alt="" src="../vector35.svg" />
         </div>
         <div className="srinivasa-theatre-div">Srinivasa Theatre</div>
         <div className="group-div49">
@@ -255,18 +255,18 @@ const Theatres = () => {
         <div className="rectangle-div436" />
         <img className="group-icon12" alt="" src="../group7.svg" />
         <button className="group-button7" onClick={onGroupButtonClick}>
-          <img className="vector-icon57" alt="" src="../vector27.svg" />
+          <img className="vector-icon57" alt="" src="../vector51.svg" />
           <img className="vector-icon58" alt="" src="../vector52.svg" />
           <img className="vector-icon59" alt="" src="../vector53.svg" />
           <img className="vector-icon60" alt="" src="../vector54.svg" />
         </button>
         <button className="group-button8" onClick={onGroupButton1Click}>
           <div className="rectangle-div437" />
-          <img className="group-icon13" alt="" src="../group-3.svg" />
+          <img className="group-icon13" alt="" src="../group-31.svg" />
         </button>
         <div className="group-div75">
           <div className="rectangle-div413" />
-          <img className="vector-icon61" alt="" src="../vector31.svg" />
+          <img className="vector-icon61" alt="" src="../vector55.svg" />
         </div>
       </div>
     </div>

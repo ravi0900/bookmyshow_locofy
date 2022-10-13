@@ -84,18 +84,18 @@
 .other-payment-method1 {
   top: calc(50% - -101.5px);
 }
-.ellipse-icon5 {
+.ellipse-icon11 {
   position: absolute;
   top: calc(50% - -89.5px);
   left: calc(50% - 140px);
   width: 16px;
   height: 16px;
 }
-.ellipse-icon6 {
+.ellipse-icon12 {
   top: calc(50% - -24.5px);
 }
-.ellipse-icon6,
-.ellipse-icon7,
+.ellipse-icon12,
+.ellipse-icon13,
 .ellipse-input {
   position: absolute;
   left: calc(50% - 140px);
@@ -108,7 +108,7 @@
   border: 1px solid #c5c3c3;
   box-sizing: border-box;
 }
-.ellipse-icon7 {
+.ellipse-icon13 {
   top: calc(50% - 105.5px);
 }
 .group-icon7,

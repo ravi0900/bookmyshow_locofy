@@ -139,7 +139,7 @@ const Booking3 = () => {
         <p className="how-many-seats">How many seats do you</p>
         <p className="want-to-book">want to book?</p>
       </div>
-      <img className="ellipse-icon8" alt="" src="../ellipse-10.svg" />
+      <img className="ellipse-icon14" alt="" src="../ellipse-10.svg" />
       <div className="div">1</div>
       <button className="button" onClick={onButtonClick}>
         2

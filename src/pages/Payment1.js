@@ -29,14 +29,14 @@ const Payment1 = () => {
           Pay Via Debit/Credit Card
         </div>
         <div className="other-payment-method1">Other Payment Method</div>
-        <img className="ellipse-icon5" alt="" src="../ellipse-16.svg" />
-        <img className="ellipse-icon6" alt="" src="../ellipse-16.svg" />
+        <img className="ellipse-icon11" alt="" src="../ellipse-16.svg" />
+        <img className="ellipse-icon12" alt="" src="../ellipse-16.svg" />
         <input
           className="ellipse-input"
           type="radio"
           onClick={onEllipseRadioClick}
         />
-        <img className="ellipse-icon7" alt="" src="../ellipse-16.svg" />
+        <img className="ellipse-icon13" alt="" src="../ellipse-16.svg" />
         <img className="xmlid-1-icon1" alt="" src="../xmlid-1.svg" />
         <img className="group-icon7" alt="" src="../group4.svg" />
         <img className="xmlid-69-icon1" alt="" src="../xmlid-69.svg" />

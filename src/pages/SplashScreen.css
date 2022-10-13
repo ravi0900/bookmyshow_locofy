@@ -1,3 +1,13 @@
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
 .book-my-show-logo-button {
   cursor: pointer;
   border: 0;
@@ -11,6 +21,10 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
+  opacity: 0;
+}
+.book-my-show-logo-button.animate {
+  animation: 1s ease 0s 1 normal forwards slide-in-top;
 }
 .splash-screen-div {
   position: relative;

@@ -56,7 +56,7 @@ const About = () => {
       <div className="english-div">ENGLISH</div>
       <div className="d-div">3D</div>
       <div className="imax-div">IMAX</div>
-      <img className="ellipse-icon9" alt="" src="../ellipse-9.svg" />
+      <img className="ellipse-icon15" alt="" src="../ellipse-9.svg" />
       <div className="kristen-bell-evan-rachel-wood">
         Kristen Bell, Evan Rachel Wood, Jonathan Groff
       </div>
