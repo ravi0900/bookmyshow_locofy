@@ -1,0 +1,83 @@
+.book-my-show-logo-icon2 {
+  position: absolute;
+  top: calc(50% - 220px);
+  left: calc(50% - 40px);
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.rectangle-input,
+.rectangle-input1 {
+  border: 2px solid var(--color-gray-200);
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 24px);
+  left: calc(50% - 120px);
+  border-radius: var(--br-md);
+  box-sizing: border-box;
+  width: 240px;
+  height: 48px;
+}
+.rectangle-input1 {
+  top: calc(50% - -92px);
+}
+.please-enter-your {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.email-address-for {
+  margin: 0;
+}
+.please-enter-your-mobile-numbe {
+  position: absolute;
+  top: calc(50% - 100px);
+  left: calc(50% - 112px);
+  color: var(--color-gray-600);
+  display: inline-block;
+}
+.enter-email-address,
+.enter-mobile-number,
+.or-div {
+  position: absolute;
+  top: calc(50% - 48px);
+  left: calc(50% - 114px);
+  display: inline-block;
+}
+.enter-email-address,
+.or-div {
+  top: calc(50% - -68px);
+}
+.or-div {
+  top: calc(50% - -40px);
+  left: calc(50% - 16px);
+}
+.rectangle-button24 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-red-300);
+  position: absolute;
+  top: calc(50% - -172px);
+  left: calc(50% - 120px);
+  border-radius: var(--br-xl);
+  width: 240px;
+  height: 48px;
+}
+.send-verification-code {
+  position: absolute;
+  top: calc(50% - -188px);
+  left: calc(50% - 72px);
+  display: inline-block;
+  color: var(--color-white);
+}
+.log-in-enter-number-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-400);
+  font-family: var(--font-roboto);
+}

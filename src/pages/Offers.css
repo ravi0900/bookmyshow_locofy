@@ -1,0 +1,305 @@
+.rectangle-div1,
+.rectangle-div2 {
+  position: absolute;
+  top: calc(50% - 320px);
+  left: calc(50% - 180px);
+  background-color: var(--color-gray-100);
+  width: 360px;
+  height: 24px;
+}
+.rectangle-div2 {
+  top: calc(50% - 296px);
+  background-color: var(--color-white);
+  height: 40px;
+}
+.bangalore-div,
+.location-div,
+.rectangle-div3,
+.vector-icon2 {
+  position: absolute;
+  top: calc(50% - 12.03px);
+  left: calc(50% - 12px);
+  width: 24px;
+  height: 24.07px;
+}
+.bangalore-div,
+.location-div,
+.vector-icon2 {
+  left: calc(50% - 9px);
+  width: 18.08px;
+}
+.bangalore-div,
+.location-div {
+  top: calc(50% - 287.91px);
+  left: calc(50% - 165px);
+  width: 24px;
+}
+.bangalore-div {
+  top: calc(50% - 284px);
+  left: calc(50% - 129px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-red-300);
+  text-align: left;
+  display: inline-block;
+  width: 64px;
+  height: 16px;
+}
+.notification-div,
+.vector-icon3 {
+  position: absolute;
+  top: calc(50% - 12.03px);
+  left: calc(50% - 10px);
+  width: 20.95px;
+  height: 24.07px;
+}
+.notification-div {
+  top: calc(50% - 287.91px);
+  left: calc(50% - -141px);
+  width: 24px;
+}
+.group-icon,
+.search-div,
+.vector-icon4 {
+  position: absolute;
+  top: calc(50% - 12.03px);
+  left: calc(50% - 12px);
+  width: 23.19px;
+  height: 24.07px;
+}
+.group-icon,
+.search-div {
+  top: calc(50% - 287.91px);
+  left: calc(50% - -93px);
+  width: 24px;
+}
+.group-icon {
+  top: calc(50% - 239.77px);
+  left: calc(50% - 104px);
+  width: 208px;
+  height: 208.55px;
+}
+.rectangle-button,
+.reedem-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.rectangle-button {
+  background-color: var(--color-red-300);
+  top: calc(50% - 76px);
+  left: calc(50% - 50px);
+  border-radius: var(--br-sm);
+  width: 100px;
+  height: 30px;
+}
+.reedem-button {
+  background-color: transparent;
+  top: calc(50% - 69px);
+  left: calc(50% - 26px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 52px;
+  height: 16px;
+}
+.hdfc-bank-logo-1-icon {
+  position: absolute;
+  top: calc(50% - 218px);
+  left: calc(50% - 62px);
+  width: 121px;
+  height: 24px;
+  object-fit: cover;
+}
+.on-movie-tickets {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.get-a-25-discount-on-movie-ti {
+  position: absolute;
+  top: calc(50% - 180px);
+  left: calc(50% - 52px);
+  display: inline-block;
+  width: 104px;
+  height: 71px;
+}
+.group-icon1 {
+  position: absolute;
+  top: calc(50% - 19.16px);
+  left: calc(50% - 104px);
+  width: 208px;
+  height: 208.55px;
+}
+.rectangle-button1,
+.reedem-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.rectangle-button1 {
+  background-color: var(--color-red-300);
+  top: calc(50% - -144px);
+  left: calc(50% - 50px);
+  border-radius: var(--br-sm);
+  width: 100px;
+  height: 30px;
+}
+.reedem-button1 {
+  background-color: transparent;
+  top: calc(50% - -151px);
+  left: calc(50% - 26px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 52px;
+  height: 16px;
+}
+.code-mobibms-p {
+  margin: 0;
+}
+.supercash-offer-get-flat-20-u {
+  position: absolute;
+  top: calc(50% - -41px);
+  left: calc(50% - 67px);
+  display: inline-block;
+  width: 134px;
+  height: 56px;
+}
+.group-icon2 {
+  position: absolute;
+  top: calc(50% - -201.45px);
+  left: calc(50% - 104px);
+  width: 208px;
+  height: 200.55px;
+}
+.bogo-offer-i,
+.buy-1-get-1-free {
+  position: absolute;
+  display: inline-block;
+}
+.bogo-offer-i {
+  top: calc(50% - -231px);
+  left: calc(50% - 42px);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  color: var(--color-red-300);
+  width: 82px;
+  height: 16px;
+}
+.buy-1-get-1-free {
+  top: calc(50% - -262px);
+  left: calc(50% - 43px);
+  width: 87px;
+  height: 14px;
+}
+.mobikwik-logo-1-icon {
+  position: absolute;
+  top: calc(50% - 53px);
+  left: calc(50% - 85px);
+  width: 171px;
+  height: 130px;
+  object-fit: cover;
+}
+.rectangle-div6 {
+  position: absolute;
+  top: calc(50% - 24.07px);
+  left: calc(50% - 180px);
+  background-color: var(--color-white);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  width: 360px;
+  height: 48.13px;
+}
+.group-icon3,
+.group-icon4 {
+  position: absolute;
+  top: calc(50% - 12.03px);
+  left: calc(50% - -132px);
+  width: 24px;
+  height: 24.07px;
+}
+.group-icon4 {
+  left: calc(50% - -36.49px);
+  width: 23.03px;
+}
+.rectangle-div7,
+.vector-icon5,
+.vector-icon6 {
+  position: absolute;
+  top: calc(50% - 12.04px);
+  left: calc(50% - 12px);
+  width: 24px;
+  height: 24.07px;
+}
+.vector-icon5,
+.vector-icon6 {
+  left: calc(50% - 10.56px);
+  width: 21.12px;
+}
+.vector-icon6 {
+  top: calc(50% - -4.16px);
+  left: calc(50% - 1.37px);
+  width: 5.06px;
+  height: 5.71px;
+}
+.group-button1,
+.group-div {
+  position: absolute;
+  height: 24.07px;
+}
+.group-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 12.04px);
+  left: calc(50% - 11px);
+  width: 21.12px;
+}
+.group-div {
+  top: calc(50% - 12.03px);
+  left: calc(50% - 156px);
+  width: 24px;
+}
+.group-button2,
+.vector-icon7 {
+  position: absolute;
+  top: calc(50% - 11.03px);
+  left: calc(50% - 12px);
+  width: 24px;
+  height: 21.15px;
+}
+.group-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 12.03px);
+  left: calc(50% - 61px);
+  height: 24.07px;
+}
+.nav-div {
+  position: absolute;
+  top: calc(50% - -273.64px);
+  left: calc(50% - 181px);
+  width: 360px;
+  height: 48.13px;
+}
+.offers-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-400);
+  font-family: var(--font-roboto);
+}

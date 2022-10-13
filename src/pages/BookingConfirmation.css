@@ -1,0 +1,168 @@
+.rectangle-button4,
+.rectangle-div30 {
+  position: absolute;
+  top: calc(50% - 320px);
+  left: calc(50% - 180px);
+  background-color: var(--color-gray-100);
+  width: 360px;
+  height: 24px;
+}
+.rectangle-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-white);
+  top: calc(50% - 296px);
+  height: 40px;
+}
+.group-div16,
+.rectangle-div31,
+.vector-icon16 {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 10px);
+  width: 20px;
+  height: 20px;
+}
+.group-div16,
+.vector-icon16 {
+  top: calc(50% - 9.17px);
+  height: 17.65px;
+}
+.group-div16 {
+  top: calc(50% - 286px);
+  left: calc(50% - 164px);
+  height: 20px;
+}
+.my-ticket-div {
+  position: absolute;
+  top: calc(50% - 285px);
+  left: calc(50% - 120px);
+  font-size: var(--font-size-2xl);
+  font-weight: 500;
+  color: var(--color-red-300);
+  display: inline-block;
+}
+.rectangle-div32,
+.rectangle-div33,
+.rectangle-div34 {
+  position: absolute;
+  top: calc(50% - 28px);
+  left: calc(50% - 107px);
+  border-radius: var(--br-sm);
+  background-color: #d9d9d9;
+  box-shadow: 0 0 2px rgba(129, 129, 129, 0.25);
+  width: 214px;
+  height: 204px;
+  opacity: 0.8;
+  mix-blend-mode: normal;
+}
+.rectangle-div33,
+.rectangle-div34 {
+  top: calc(50% - 35px);
+  left: calc(50% - 122px);
+  background-color: #e4e4e4;
+  width: 244px;
+}
+.rectangle-div34 {
+  top: calc(50% - 44px);
+  left: calc(50% - 132px);
+  background-color: #f0f0f0;
+  width: 264px;
+}
+.group-icon9 {
+  position: absolute;
+  top: calc(50% - 178px);
+  left: calc(50% - 166px);
+  width: 332px;
+  height: 332px;
+}
+.pay-now-button1,
+.rectangle-button5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.rectangle-button5 {
+  background-color: var(--color-red-300);
+  top: calc(50% - -77px);
+  left: calc(50% - 80px);
+  border-radius: var(--br-sm);
+  width: 160px;
+  height: 52px;
+}
+.pay-now-button1 {
+  background-color: transparent;
+  top: calc(50% - -94px);
+  left: calc(50% - 31px);
+  font-size: var(--font-size-2xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+}
+.frozen-2-div1,
+.mask-group-icon1 {
+  position: absolute;
+  top: calc(50% - 150px);
+}
+.frozen-2-div1 {
+  left: calc(50% - 38px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-gray-900);
+  display: inline-block;
+}
+.mask-group-icon1 {
+  left: calc(50% - 138px);
+  width: 80px;
+  height: 120px;
+  object-fit: cover;
+}
+.friday-29-november {
+  position: absolute;
+  top: calc(50% - 94px);
+  left: calc(50% - 38px);
+  display: inline-block;
+}
+.f4-f5-div,
+.pm-div10,
+.pvr-forum-mall-kormangala1,
+.total-amount-rs-400 {
+  position: absolute;
+  top: calc(50% - 120px);
+  left: calc(50% - 38px);
+  display: inline-block;
+}
+.f4-f5-div,
+.pm-div10,
+.total-amount-rs-400 {
+  top: calc(50% - 68px);
+}
+.f4-f5-div,
+.total-amount-rs-400 {
+  top: calc(50% - 14px);
+  left: calc(50% - 28px);
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  width: 56px;
+}
+.total-amount-rs-400 {
+  top: calc(50% - -21px);
+  left: calc(50% - 70px);
+  font-size: var(--font-size-xl);
+  width: 140px;
+}
+.booking-confirmation-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-600);
+  font-family: var(--font-roboto);
+}

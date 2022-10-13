@@ -1,0 +1,217 @@
+.rectangle-div450 {
+  position: absolute;
+  top: calc(50% - 320px);
+  left: calc(50% - 180px);
+  background-color: var(--color-gray-100);
+  width: 360px;
+  height: 24px;
+}
+.select-your-city {
+  position: absolute;
+  top: calc(50% - 208px);
+  left: calc(50% - 148px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-600);
+  text-align: left;
+  display: inline-block;
+}
+.rectangle-button20,
+.rectangle-div451,
+.rectangle-div452 {
+  position: absolute;
+  top: calc(50% - 163px);
+  left: calc(50% - 158px);
+  border-radius: var(--br-lg);
+  border: 1px solid var(--color-red-300);
+  box-sizing: border-box;
+  width: 99px;
+  height: 39px;
+}
+.rectangle-button20,
+.rectangle-div452 {
+  top: calc(50% - 100px);
+  border: 1px solid var(--color-gray-400);
+  width: 84px;
+}
+.rectangle-button20 {
+  cursor: pointer;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 37px);
+  width: 103px;
+}
+.chennai-div,
+.hyderabad-div {
+  position: absolute;
+  top: calc(50% - 25px);
+  left: calc(50% - 138px);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+  color: var(--color-gray-600);
+  text-align: left;
+  display: inline-block;
+}
+.chennai-div {
+  left: calc(50% - 11px);
+}
+.rectangle-div453,
+.rectangle-div454 {
+  position: absolute;
+  top: calc(50% - 100px);
+  left: calc(50% - 50px);
+  border-radius: var(--br-lg);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 77px;
+  height: 39px;
+}
+.rectangle-div454 {
+  top: calc(50% - 37px);
+  left: calc(50% - 31px);
+  width: 88px;
+}
+.vishakapatnam-div {
+  position: absolute;
+  top: calc(50% - -38px);
+  left: calc(50% - 138px);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+  color: var(--color-gray-600);
+  text-align: left;
+  display: inline-block;
+}
+.rectangle-button21,
+.rectangle-button22 {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+  border-radius: var(--br-lg);
+}
+.rectangle-button21 {
+  border: 1px solid var(--color-gray-400);
+  background-color: transparent;
+  top: calc(50% - -26px);
+  left: calc(50% - 158px);
+  box-sizing: border-box;
+  width: 131px;
+  height: 39px;
+}
+.rectangle-button22 {
+  border: 0;
+  background-color: var(--color-red-100);
+  top: calc(50% - -172px);
+  left: calc(50% - 100px);
+  width: 200px;
+  height: 40px;
+}
+.jaipur-div,
+.kolkata-div {
+  position: absolute;
+  top: calc(50% - 88px);
+  left: calc(50% - 138px);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+  color: var(--color-gray-600);
+  text-align: left;
+  display: inline-block;
+}
+.jaipur-div {
+  left: calc(50% - 30px);
+}
+.rectangle-div455 {
+  position: absolute;
+  top: calc(50% - 100px);
+  left: calc(50% - -51px);
+  border-radius: var(--br-lg);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 99px;
+  height: 39px;
+}
+.delhi-ncr-div {
+  position: absolute;
+  top: calc(50% - 88px);
+  left: calc(50% - -71px);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+  color: var(--color-gray-600);
+  text-align: left;
+  display: inline-block;
+}
+.rectangle-div456,
+.rectangle-div457 {
+  position: absolute;
+  top: calc(50% - 163px);
+  left: calc(50% - -58px);
+  border-radius: var(--br-lg);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 99px;
+  height: 39px;
+}
+.rectangle-div457 {
+  left: calc(50% - 35px);
+  width: 69px;
+}
+.bangalore-div4 {
+  position: absolute;
+  top: calc(50% - 151px);
+  left: calc(50% - 146px);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+  color: var(--color-red-300);
+  text-align: left;
+  display: inline-block;
+}
+.vector-icon71 {
+  position: absolute;
+  top: calc(50% - 149px);
+  left: calc(50% - 81px);
+  width: 12px;
+  height: 12px;
+}
+.delhi-div,
+.mumbai-div {
+  position: absolute;
+  top: calc(50% - 151px);
+  left: calc(50% - 15px);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+  color: var(--color-gray-600);
+  text-align: left;
+  display: inline-block;
+}
+.mumbai-div {
+  left: calc(50% - -83px);
+}
+.book-my-show-logo-icon {
+  position: absolute;
+  top: calc(50% - 272px);
+  left: calc(50% - 148px);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.get-started-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - -184px);
+  left: calc(50% - 36px);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.selected-location-form {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+}

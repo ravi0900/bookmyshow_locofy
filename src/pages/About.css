@@ -1,0 +1,309 @@
+.banner-icon {
+  position: absolute;
+  height: 28.13%;
+  width: 100%;
+  top: 3.75%;
+  right: 0;
+  bottom: 68.13%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-button14,
+.rectangle-div439 {
+  position: absolute;
+  height: 3.75%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 96.25%;
+  left: 0;
+  background-color: var(--color-gray-100);
+}
+.rectangle-button14 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-red-300);
+  height: 7.5%;
+  top: 92.5%;
+  bottom: 0;
+}
+.rectangle-div440 {
+  position: absolute;
+  height: 10%;
+  width: 83.33%;
+  top: 26.72%;
+  right: 8.33%;
+  bottom: 63.28%;
+  left: 8.33%;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+}
+.adventure-animation-comedy1,
+.frozen-2-div6 {
+  position: absolute;
+  height: 2.5%;
+  width: 53.06%;
+  top: 32.34%;
+  right: 33.06%;
+  bottom: 65.16%;
+  left: 13.89%;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.frozen-2-div6 {
+  width: 15%;
+  top: 28.59%;
+  right: 71.11%;
+  bottom: 68.91%;
+  font-weight: 500;
+  color: var(--color-gray-900);
+}
+.three-years-after {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.the-origin-of {
+  margin: 0;
+}
+.synopsis-div,
+.three-years-after-the-events-o {
+  position: absolute;
+  height: 76.09%;
+  width: 100%;
+  top: 23.91%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.synopsis-div {
+  height: 15.22%;
+  width: 19.32%;
+  top: 0;
+  right: 80.68%;
+  bottom: 84.78%;
+  font-weight: 500;
+}
+.group-div76 {
+  position: absolute;
+  height: 14.38%;
+  width: 81.94%;
+  top: 71.88%;
+  right: 12.5%;
+  bottom: 13.75%;
+  left: 5.56%;
+}
+.censor-rating-div,
+.duration-div,
+.h-43m-div,
+.nov-22-2019,
+.release-date-div,
+.u-div {
+  position: absolute;
+  height: 1.88%;
+  width: 17.78%;
+  top: 39.22%;
+  right: 73.89%;
+  bottom: 58.91%;
+  left: 8.33%;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  display: inline-block;
+}
+.duration-div,
+.h-43m-div,
+.nov-22-2019,
+.release-date-div,
+.u-div {
+  width: 16.39%;
+  right: 41.67%;
+  left: 41.94%;
+}
+.duration-div,
+.h-43m-div,
+.nov-22-2019,
+.u-div {
+  width: 10.56%;
+  right: 8.61%;
+  left: 80.83%;
+}
+.h-43m-div,
+.nov-22-2019,
+.u-div {
+  height: 1.41%;
+  width: 1.67%;
+  top: 42.34%;
+  right: 90%;
+  bottom: 56.25%;
+  left: 8.33%;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+}
+.h-43m-div,
+.nov-22-2019 {
+  width: 13.06%;
+  right: 45%;
+  left: 41.94%;
+}
+.h-43m-div {
+  width: 7.5%;
+  right: 11.67%;
+  left: 80.83%;
+}
+.available-in-div,
+.cast-crew,
+.d-div,
+.director-div,
+.english-div,
+.imax-div {
+  position: absolute;
+  height: 2.19%;
+  width: 21.39%;
+  top: 56.25%;
+  right: 73.06%;
+  bottom: 41.56%;
+  left: 5.56%;
+  font-weight: 500;
+  display: inline-block;
+}
+.available-in-div,
+.d-div,
+.director-div,
+.english-div,
+.imax-div {
+  width: 15.83%;
+  top: 64.06%;
+  right: 78.61%;
+  bottom: 33.75%;
+}
+.available-in-div,
+.d-div,
+.english-div,
+.imax-div {
+  width: 21.39%;
+  top: 46.25%;
+  right: 73.06%;
+  bottom: 51.56%;
+}
+.d-div,
+.english-div,
+.imax-div {
+  height: 1.88%;
+  width: 11.39%;
+  top: 49.38%;
+  right: 83.06%;
+  bottom: 48.75%;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+}
+.d-div,
+.imax-div {
+  width: 3.61%;
+  top: 51.88%;
+  right: 90.83%;
+  bottom: 46.25%;
+}
+.imax-div {
+  width: 6.67%;
+  right: 79.72%;
+  left: 13.61%;
+}
+.ellipse-icon9 {
+  position: absolute;
+  height: 0.63%;
+  width: 1.11%;
+  top: 52.5%;
+  right: 88.06%;
+  bottom: 46.88%;
+  left: 10.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.chris-buck-div,
+.kristen-bell-evan-rachel-wood {
+  position: absolute;
+  height: 2.19%;
+  width: 68.61%;
+  top: 59.38%;
+  right: 25.83%;
+  bottom: 38.44%;
+  left: 5.56%;
+  font-weight: 300;
+  display: inline-block;
+}
+.chris-buck-div {
+  width: 15.83%;
+  top: 67.19%;
+  right: 78.61%;
+  bottom: 30.63%;
+}
+.rectangle-div441,
+.vector-icon62 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.vector-icon62 {
+  height: 88.24%;
+  top: 4.17%;
+  bottom: 7.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-button9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 3.75%;
+  width: 6.67%;
+  top: 6.25%;
+  right: 88.89%;
+  bottom: 90%;
+  left: 4.44%;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+}
+.about-div,
+.book-tickets-button {
+  text-align: left;
+  font-family: var(--font-roboto);
+}
+.book-tickets-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 3.59%;
+  width: 32.22%;
+  top: 94.53%;
+  right: 33.89%;
+  bottom: 1.88%;
+  left: 33.89%;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+}
+.about-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-600);
+}

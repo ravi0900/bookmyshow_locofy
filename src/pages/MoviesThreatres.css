@@ -1,0 +1,380 @@
+.line-div {
+  position: absolute;
+  height: 0.16%;
+  width: 83.61%;
+  top: 30.55%;
+  right: 8.19%;
+  bottom: 69.3%;
+  left: 8.19%;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.rectangle-div9 {
+  position: absolute;
+  height: 3.75%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 96.25%;
+  left: 0;
+  background-color: var(--color-gray-100);
+}
+.pvr-forum-mall-kormangala,
+.today-div,
+.tomorrow-div {
+  position: absolute;
+  height: 2.19%;
+  top: 32.5%;
+  bottom: 65.31%;
+  display: inline-block;
+}
+.today-div {
+  width: 9.17%;
+  right: 83.06%;
+  left: 7.78%;
+  color: var(--color-red-300);
+}
+.pvr-forum-mall-kormangala,
+.tomorrow-div {
+  width: 15.28%;
+  right: 58.89%;
+  left: 25.83%;
+}
+.pvr-forum-mall-kormangala {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 44.44%;
+  top: 37.66%;
+  right: 48.33%;
+  bottom: 60.16%;
+  left: 7.22%;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-600);
+  text-align: left;
+}
+.the-forum-mall {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.kormangala-bengaluru- {
+  margin: 0;
+}
+.pm-div,
+.pm-div1,
+.the-forum-mall-21-22-adugodi {
+  position: absolute;
+  left: 7.22%;
+  display: inline-block;
+}
+.the-forum-mall-21-22-adugodi {
+  height: 4.38%;
+  width: 64.44%;
+  top: 41.56%;
+  right: 28.33%;
+  bottom: 54.06%;
+  font-weight: 300;
+}
+.pm-div,
+.pm-div1 {
+  height: 2.19%;
+  width: 12.5%;
+  top: 50.63%;
+  right: 80.28%;
+  bottom: 47.19%;
+  color: var(--color-green-200);
+}
+.pm-div1 {
+  right: 53.89%;
+  left: 33.61%;
+}
+.adventure-animation-comedy,
+.frozen-2-div {
+  position: absolute;
+  height: 2.5%;
+  width: 53.06%;
+  top: 11.56%;
+  right: 8.06%;
+  bottom: 85.94%;
+  left: 38.89%;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.frozen-2-div {
+  width: 15%;
+  top: 7.5%;
+  right: 46.11%;
+  bottom: 90%;
+  font-weight: 500;
+  color: var(--color-gray-900);
+}
+.mask-group-icon {
+  position: absolute;
+  height: 21.88%;
+  width: 25.56%;
+  top: 6.25%;
+  right: 66.67%;
+  bottom: 71.88%;
+  left: 7.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-div10,
+.vector-icon8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.vector-icon8 {
+  height: 91.44%;
+  top: 4.17%;
+  bottom: 4.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div1,
+.km-away-div {
+  position: absolute;
+  height: 2.5%;
+  width: 4.44%;
+  top: 37.19%;
+  right: 7.78%;
+  bottom: 60.31%;
+  left: 87.78%;
+}
+.km-away-div {
+  height: 85.71%;
+  width: 21.37%;
+  top: 7.14%;
+  right: 78.63%;
+  bottom: 7.14%;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.directions-div,
+.group-div4,
+.vector-icon9 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.vector-icon9 {
+  width: 71.43%;
+  right: 11.91%;
+  left: 16.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.directions-div,
+.group-div4 {
+  width: 19.72%;
+  right: 80.28%;
+  left: 0;
+}
+.directions-div {
+  height: 85.71%;
+  width: 63.38%;
+  top: 7.14%;
+  right: 0;
+  bottom: 7.14%;
+  left: 36.62%;
+  font-weight: 300;
+  display: inline-block;
+}
+.group-div3 {
+  position: absolute;
+  height: 100%;
+  width: 27.1%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 72.9%;
+  color: var(--color-gray-1000);
+}
+.group-div2 {
+  position: absolute;
+  height: 2.19%;
+  width: 72.78%;
+  top: 47.19%;
+  right: 20%;
+  bottom: 50.63%;
+  left: 7.22%;
+  font-size: var(--font-size-sm);
+}
+.lakshmi-theatre-div,
+.no-1041-balaji-layout-tava {
+  position: absolute;
+  height: 2.19%;
+  width: 25%;
+  top: 81.09%;
+  right: 67.78%;
+  bottom: 16.72%;
+  left: 7.22%;
+  font-weight: 500;
+  display: inline-block;
+}
+.no-1041-balaji-layout-tava {
+  height: 4.38%;
+  width: 61.94%;
+  top: 85%;
+  right: 30.83%;
+  bottom: 10.63%;
+  font-weight: 300;
+}
+.pm-div2,
+.pm-div3,
+.pm-div4 {
+  position: absolute;
+  height: 2.19%;
+  width: 14.17%;
+  top: 94.06%;
+  right: 78.61%;
+  bottom: 3.75%;
+  left: 7.22%;
+  color: var(--color-gray-400);
+  display: inline-block;
+}
+.pm-div3,
+.pm-div4 {
+  width: 12.5%;
+  right: 53.89%;
+  left: 33.61%;
+  color: var(--color-green-200);
+}
+.pm-div4 {
+  right: 28.06%;
+  left: 59.44%;
+}
+.group-div5,
+.km-away-div1 {
+  position: absolute;
+  height: 2.5%;
+  width: 4.44%;
+  top: 80.63%;
+  right: 7.78%;
+  bottom: 16.88%;
+  left: 87.78%;
+}
+.km-away-div1 {
+  height: 85.71%;
+  width: 18.32%;
+  top: 7.14%;
+  right: 81.68%;
+  bottom: 7.14%;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.group-div6 {
+  position: absolute;
+  height: 2.19%;
+  width: 72.78%;
+  top: 90.63%;
+  right: 20%;
+  bottom: 7.19%;
+  left: 7.22%;
+  font-size: var(--font-size-sm);
+}
+.babu-theatre-div,
+.dommasandra-sarjapur-road-ba {
+  position: absolute;
+  height: 2.19%;
+  width: 20%;
+  top: 57.66%;
+  right: 72.78%;
+  bottom: 40.16%;
+  left: 7.22%;
+  font-weight: 500;
+  display: inline-block;
+}
+.dommasandra-sarjapur-road-ba {
+  height: 4.38%;
+  width: 45.56%;
+  top: 61.56%;
+  right: 47.22%;
+  bottom: 34.06%;
+  font-weight: 300;
+}
+.pm-div5,
+.pm-div6,
+.pm-div7,
+.pm-div8,
+.pm-div9 {
+  position: absolute;
+  height: 2.19%;
+  width: 12.5%;
+  top: 70.63%;
+  right: 80.28%;
+  bottom: 27.19%;
+  left: 7.22%;
+  color: var(--color-green-200);
+  display: inline-block;
+}
+.pm-div6,
+.pm-div7,
+.pm-div8,
+.pm-div9 {
+  right: 53.89%;
+  left: 33.61%;
+}
+.pm-div7,
+.pm-div8,
+.pm-div9 {
+  right: 28.06%;
+  left: 59.44%;
+}
+.pm-div8,
+.pm-div9 {
+  top: 74.06%;
+  right: 80.28%;
+  bottom: 23.75%;
+  left: 7.22%;
+}
+.pm-div9 {
+  width: 14.17%;
+  right: 52.22%;
+  left: 33.61%;
+}
+.group-div10,
+.group-div9 {
+  position: absolute;
+  height: 2.5%;
+  width: 4.44%;
+  top: 57.19%;
+  right: 7.78%;
+  bottom: 40.31%;
+  left: 87.78%;
+}
+.group-div10 {
+  height: 2.19%;
+  width: 72.78%;
+  top: 67.19%;
+  right: 20%;
+  bottom: 30.63%;
+  left: 7.22%;
+  font-size: var(--font-size-sm);
+}
+.movies-threatres-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-600);
+  font-family: var(--font-roboto);
+}
